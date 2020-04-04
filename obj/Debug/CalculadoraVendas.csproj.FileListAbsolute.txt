@@ -1,0 +1,9 @@
+C:\Users\davis\Documents\CSharp\CalculadoraVendas\bin\Debug\CalculadoraVendas.exe.config
+C:\Users\davis\Documents\CSharp\CalculadoraVendas\bin\Debug\CalculadoraVendas.exe
+C:\Users\davis\Documents\CSharp\CalculadoraVendas\bin\Debug\CalculadoraVendas.pdb
+C:\Users\davis\Documents\CSharp\CalculadoraVendas\obj\Debug\CalculadoraVendas.csprojAssemblyReference.cache
+C:\Users\davis\Documents\CSharp\CalculadoraVendas\obj\Debug\CalculadoraVendas.Form1.resources
+C:\Users\davis\Documents\CSharp\CalculadoraVendas\obj\Debug\CalculadoraVendas.Properties.Resources.resources
+C:\Users\davis\Documents\CSharp\CalculadoraVendas\obj\Debug\CalculadoraVendas.csproj.GenerateResource.cache
+C:\Users\davis\Documents\CSharp\CalculadoraVendas\obj\Debug\CalculadoraVendas.exe
+C:\Users\davis\Documents\CSharp\CalculadoraVendas\obj\Debug\CalculadoraVendas.pdb
